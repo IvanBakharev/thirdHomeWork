@@ -9,7 +9,7 @@ main()
 	printf("pin2=");
 	scanf("%i",&pin2);
 	
-	if(((pin1==123)&&(pin2==321))||(pin1==456)&&(pin2==654))
+	if(((pin1==345)&&(pin2==543))||(pin1==789)&&(pin2==987))
 	{
 		printf("OK");
 	}
